@@ -1,0 +1,11 @@
+C:\TFS\ProjetoAprender\PadroesProjeto\ExemploMongoDB\ExemploMongoDB\bin\Debug\ExemploMongoDB.exe.config
+C:\TFS\ProjetoAprender\PadroesProjeto\ExemploMongoDB\ExemploMongoDB\bin\Debug\ExemploMongoDB.exe
+C:\TFS\ProjetoAprender\PadroesProjeto\ExemploMongoDB\ExemploMongoDB\bin\Debug\ExemploMongoDB.pdb
+C:\TFS\ProjetoAprender\PadroesProjeto\ExemploMongoDB\ExemploMongoDB\bin\Debug\MongoDB.Bson.dll
+C:\TFS\ProjetoAprender\PadroesProjeto\ExemploMongoDB\ExemploMongoDB\bin\Debug\MongoDB.Driver.Core.dll
+C:\TFS\ProjetoAprender\PadroesProjeto\ExemploMongoDB\ExemploMongoDB\bin\Debug\MongoDB.Driver.dll
+C:\TFS\ProjetoAprender\PadroesProjeto\ExemploMongoDB\ExemploMongoDB\bin\Debug\MongoDB.Bson.xml
+C:\TFS\ProjetoAprender\PadroesProjeto\ExemploMongoDB\ExemploMongoDB\bin\Debug\MongoDB.Driver.xml
+C:\TFS\ProjetoAprender\PadroesProjeto\ExemploMongoDB\ExemploMongoDB\obj\Debug\ExemploMongoDB.csprojResolveAssemblyReference.cache
+C:\TFS\ProjetoAprender\PadroesProjeto\ExemploMongoDB\ExemploMongoDB\obj\Debug\ExemploMongoDB.exe
+C:\TFS\ProjetoAprender\PadroesProjeto\ExemploMongoDB\ExemploMongoDB\obj\Debug\ExemploMongoDB.pdb
